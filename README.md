@@ -6,6 +6,7 @@
 ![3](https://github.com/alidarcan/RockPaperScissorsLizardSpock/assets/99339675/23c834f5-6e62-4bb1-9044-9f27f4109a82)
 ![4](https://github.com/alidarcan/RockPaperScissorsLizardSpock/assets/99339675/39ae4100-5319-416d-b3f0-947967a55c60)
 
+![5](https://github.com/alidarcan/RockPaperScissorsLizardSpock/assets/99339675/2a6b4c26-7ed3-4e16-bbaa-bb3f1139903d)
 
 ## INFORMATION
 
