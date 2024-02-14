@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    background-color: #16143C;
+    color: white;
+    text-align: center;
+    z-index: -2;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.score {
+    font-size: 5rem;
+}
+
+.infoText {
+    font-size: 1.25rem;
+}
+
+.background {
+    z-index: -1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.1;
+}
+.card {
+    background-color: #16143C;
+    border: #5fc5b8 1px solid ;
+}
+.btn-outline-info{
+    border-radius: 0%;
+    border-bottom: #16143C 1px solid;
+}
+
+.game-container{
+    height: 100vh;
+}
+h1{
+    color: white;
+}
+
+@media (max-width: 768px) {
+    li {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    .background {
+        top: 18%;
+    }
+}
+
+@media (min-width: 768px) {
+    li {
+        font-size: 2rem;
+    }
+}
